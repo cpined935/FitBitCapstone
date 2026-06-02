@@ -38,3 +38,10 @@ One potential issue with the data that I saw was that for specific time frames (
 
 *Used median as opposed to average to better take outliers into account.
 
+
+<img width="470" height="270" alt="image" src="https://github.com/user-attachments/assets/0df3fd80-d3c7-43e4-b000-928a02cd5abd" />
+
+
+
+
+
