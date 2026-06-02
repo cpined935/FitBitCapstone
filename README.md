@@ -1,12 +1,15 @@
 # FitBitCapstone
 
-**Business Task:**
+***Business Task:***
+
 A high-tech manufacturer of women’s health products aims to expand its presence in the global smart device market. Using FitBit Fitness Tracker data from Kaggle, this case study analyzes smart device usage trends, their relevance to the company’s customers, and how they can inform its marketing strategy.
 
-Description of sources:
+***Description of sources:***
+
 Data was downloaded from the FitBit Data Fitness Tracker Data on Kaggle and exported as a CSV file to Google Sheets. 
 
-Steps Taken:
+
+***Steps Taken:***
 
 Downloaded data from Kaggle: FitBit Data
 
@@ -21,7 +24,7 @@ Installed ggplot2 package to create effective and relevant visuals using geom() 
 There was also some research done on what the specific exercises the categories listed in the database translated to. Both the Mayo Clinic and the Univerity of San Francisco provided necessary clarity in a way that proved to be useful for conducting this analysis. 
 
 
-Summary: 
+***Summary:*** 
 
 One of the most interesting take aways is the fact that more steps taken does not necessarily equate to more calories being burned. The median step count (as shown in the first visual) is also crucial; it shows that the median is almost 2,500 steps below the 10,000 figure that is consistently thrown out as the minimum for the average adult. 
 
@@ -50,13 +53,13 @@ One potential issue with the data that I saw was that for specific time frames (
 
 
 
-Trends: 
+***Trends:*** 
   
 More steps does not necessarily mean that more calories are being burned. The median amount of calories being burned is 2,134- this is a good place to mention that it would be useful to have an age range in the data set as it would help provide deeper insight into trends that the company could leverage to influence its marketing strategy. For example, if we knew that the majority of users were in their early 20’s, we could use that information to run an ad campaign on a popular social media platform (TikTok, Instagram, etc.). 
 
 
 
-Key Findings:
+***Key Findings:***
  There is considerably less data for more intense activities when compared to the data available for sedentary and light activities. The median time individuals engaged in intense activities ranged from 4-6 minutes; individuals spent 3-17 hours in the other categories of activity that were in the data set (sedentary and light). It would be interesting to further explore this by running a survey or buying more data; what are people mainly using these devices for? Are they trying to track workouts and calories burned, or are they mainly trying to track steps and use the watch to tell the time? Knowing this would directly affect the marketing campaign strategy of the company as it would reveal what individuals are looking to get out of using their products. Another angle to the data that is missing is where users live (are they concentrated in urban areas, or do they live in suburban areas) and the ages of users (this would also reveal usage trends, and directly impact marketing strategy through campaign ideas- e.g. TikTok or Instagram targeting a younger audience, or newspaper ads if users are older). 
 
 One aspect that I believe could make this data even more effective is location: where are the bulk of the users? Do they live in heavily populated urban areas (major cities), or do they live in areas that are not as densely populated (towns and suburbs). I believe that if the company invested in either running a survey or procuring this data, it could make their marketing campaigns much more effective as it would allow them to have insight into the lifestyle trends of their users and that would allow them to tailor their products to fit the lifestyle needs of their customers (both existing and potential). 
@@ -65,7 +68,7 @@ Another part of the data that I believe is missing is the length of time of exer
 
 
 
-Recommendations:
+***Recommendations:***
 
 Option 1- invest in gathering more data through a survey or buying more data. Would be beneficial to know age, activity types (lifting weights, cross fit, running, etc.), time of activity being performed (morning, afternoon, evening) to more accurately form campaign strategy.
 
